@@ -6,5 +6,3 @@
 out/
 *.class
 
-# Maven (por si acaso)
-target/
