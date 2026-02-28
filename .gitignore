@@ -1,0 +1,10 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# archivos compilados
+out/
+*.class
+
+# Maven (por si acaso)
+target/
